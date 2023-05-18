@@ -1,6 +1,6 @@
 # Maintainer: Julian Poidevin <poidevin dot julian at gmail dot com>
 pkgname=rofi-addons
-pkgver=r98.e119e2c
+pkgver=r99.a64b53e
 pkgrel=1
 epoch=
 pkgdesc="A huge collection of Rofi based custom Applets, Launchers & Powermenus."
